@@ -24,7 +24,7 @@ To solve the problem:
   <li>Plot anomaly images.</li>
 </ul>
 
-## Anomaly output image exampels
+## Anomaly output image examples
 ![Alt text](predicted_images/02.png "Optional title")
 ![Alt text](predicted_images/14.png "Optional title")
 ![Alt text](predicted_images/15.png "Optional title")
